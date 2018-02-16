@@ -15,6 +15,7 @@
 int main()
 {
 	double a = -M_PI, b = M_PI, x, h = 0.1;
+
 	printf("x:\t");
 	for (x = a; x <= b; x += h)
 	{
